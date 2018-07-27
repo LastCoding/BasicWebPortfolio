@@ -1,0 +1,23 @@
+{
+  "name": "basicwebportfolio",
+  "version": "1.0.0",
+  "description": "Responsive Basic Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastPlays/BasicWebPortfolio.git"
+  },
+  "author": "Iñaki Marzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastPlays/BasicWebPortfolio/issues"
+  },
+  "homepage": "https://github.com/LastPlays/BasicWebPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2",
+    "npm": "^6.2.0"
+  }
+}
